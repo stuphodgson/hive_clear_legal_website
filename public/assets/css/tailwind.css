@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    
+  }
+html, body {
+  height: 100%;
+}
+body {
+  
+}
+h1, h2, h3, h4, h5, h6 {
+  
+}
+/* img.logo  {
+  height: 50px;
+} */
+
+/* @font-face {
+  font-family: 'Lexend-XL';
+  src: url('../fonts/readexpro-extralight-webfont.woff2') format('woff2'),
+       url('../fonts/readexpro-extralight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'Lexend-L';
+  src: url('../fonts/readexpro-light-webfont.woff2') format('woff2'),
+       url('../fonts/readexpro-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'Lexend-M';
+  src: url('../fonts/readexpro-medium-webfont.woff2') format('woff2'),
+       url('../fonts/readexpro-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'Lexend-SB';
+  src: url('../fonts/readexpro-semibold-webfont.woff2') format('woff2'),
+       url('../fonts/readexpro-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lexend-B';
+  src: url('../fonts/readexpro-bold-webfont.woff2') format('woff2'),
+       url('../fonts/readexpro-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'Lexend-R';
+  src: url('../fonts/readexpro-regular-webfont.woff2') format('woff2'),
+       url('../fonts/readexpro-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+} */
